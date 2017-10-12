@@ -1,4 +1,4 @@
-## A C++ Implementation of Delta Boosting Machines
+## A C++ Implementation of DeltaBM
 
 Features:
 
